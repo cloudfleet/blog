@@ -38,8 +38,7 @@ is there your data will be restored back to your blimp on demand.
 
 The CloudFleet box, containing all your sensitive data belongs to you. No one but
 you can cancel the service. Even if you decide to leave CloudFleets services, your Blimp
-and your data will stay with you and be accessible from your home network. Your
-Blimp in the Cloud.
+and your data will stay with you and be accessible from your home network.
 
 
 ## 3. CloudFleet Plays Nice With Others
