@@ -10,11 +10,11 @@ Summary: Introducing the Admiral of the Clouds
 ## Introducing the Admiral of the Clouds
 
 <img class="intro-image" src="{filename}/img/Christoph.png" style="float: left; width: 25%; margin: 0.5em">
-We're back for our second team member introduction: Christoph Witzany. Christoph is the other co-founder of CloudFleet, and is originally from Klagenfurt. A lover of decentralization and software development, while growing up he split his time between chess, programming Conway's Game of life or galaxy simulations, and physics.
+We're back for our second team member introduction: Christoph Witzany. Christoph is the original visionary behind the idea of CloudFleet (of which he is the founder) and is originally from Klagenfurt. A lover of decentralization and software development, while growing up he split his time between chess, programming Conway's Game of life or galaxy simulations, and physics.
 
 ## Business and Engineering
 
-Backed by his studies in Computer Science and Economics, he combines the skills of an engineer with the vision and know-how of a business man. First engineer of CloudFleet, he created and implemented the basic architecture of the software that runs on CloudFleet devices. "I also designed the workflows that make sure the privacy of our users is protect at the maximum possible level", he says about his role.  
+Backed by his studies in Computer Science and Economics, he combines the skills of an engineer with the vision and know-how of a business man. First engineer of CloudFleet, he created and implemented the basic architecture of the software that runs on CloudFleet devices. "I also designed the workflows that make sure the privacy of our users is protected at the maximum possible level", he says about his role.  
 Passionate about decentralization and Computer Security, he is convinced that CloudFleet is needed. "CloudFleet enables everybody to take back the control over their data."  
 
 ## The importance of privacy
