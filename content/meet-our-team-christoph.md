@@ -1,11 +1,12 @@
 Title: Meet our team – Christoph
-Date: 2015-12-02 10:00
+Date: 2015-12-08 18:25
 Category: general
 Tags: team, christoph
 Slug: meet-our-team-christoph
 Author: Laura Gaetano
 Author_link: https://cloudfleet.io/#team-tabs
 Summary: Introducing the Admiral of the Clouds
+Status: published
 
 ## Introducing the Admiral of the Clouds
 
