@@ -1,5 +1,31 @@
 # CloudFleet Blog
 
+## Quick Start for CloudFleeters
+
+To write posts, Add Markdown files to the *content/* folder. The content should
+start with some metadata like:
+
+```
+Title: Meet our team – Christoph
+Date: 2015-12-08 18:25
+Category: general
+Tags: team, christoph
+Slug: meet-our-team-christoph
+Author: Laura Gaetano
+Author_link: https://cloudfleet.io/#team-tabs
+Summary: Introducing the Admiral of the Clouds
+Status: published
+```
+
+If you just want to add it as a draft, omit the `Status: published` line.
+
+To publish, make sure `Status: published` is added, check that the date is valid
+and from [base-builder](https://code.cloudfleet-hq.net/cloudfleet/base-builder/)
+run:
+
+    ansible-playbook spire.yml -K --tags=blog
+
+
 ## Installation
 
     pip install pelican markdown
