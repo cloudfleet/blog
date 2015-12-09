@@ -1,5 +1,5 @@
 Title: 9 Tools to Take Back Control over Your Data
-Date: 2015-12-08 19:30
+Date: 2015-12-10 19:30
 Category: self-hosting
 Tags: self-hosting, decentralization
 Slug: tools-to-take-back-control-over-your-data
