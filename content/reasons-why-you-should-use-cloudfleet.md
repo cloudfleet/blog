@@ -17,7 +17,7 @@ over your data therefore your profile will never be sold to 3rd parties which bo
 you with targeted ads.
 
 CloudFleet is your safe haven for your digital identity. Your Blimp
-will act as your personal digital assistant completing all the preocesses directly
+will act as your personal digital assistant completing all the processes directly
 on the device. Data can only be extracted unless you explicitly authorize it.
 
 To make sure that CloudFleet software on is safe from external malicious attacks or
