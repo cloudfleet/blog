@@ -5,8 +5,8 @@ Tags: self-hosting, decentralization
 Slug: tools-to-take-back-control-over-your-data
 Author: Christoph Witzany
 Author_link: https://cloudfleet.io/#team-4
-Summary: Awesome tools, that help you escape the tyranny of cloud services.
-
+Summary: Awesome tools that help you escape the tyranny of cloud services.
+Status: published
 
 
 ## Tools for You
