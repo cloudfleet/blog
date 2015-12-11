@@ -1,5 +1,5 @@
 Title: 9 Tools to Take Back Control over Your Data
-Date: 2015-12-10 19:30
+Date: 2015-12-11 10:30
 Category: self-hosting
 Tags: self-hosting, decentralization
 Slug: tools-to-take-back-control-over-your-data
@@ -140,4 +140,3 @@ possible to host a state of the art discussion forum and if you want you can use
 it to enable discussions on your static web pages, like on this blog.
 
 Now it's your turn! Have you used any of the tools we outlined above? Are there any you're currently using which we haven't mentioned? Let us know in the comments, we'd love to hear from you about the tools you use to take back control over your data.
-
