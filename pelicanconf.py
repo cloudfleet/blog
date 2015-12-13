@@ -6,7 +6,7 @@ PATH = "content"
 
 AUTHOR = u'CloudFleet Admiralty'
 SITENAME = u"CloudFleet - Captain's log"
-SITEURL = ''
+SITEURL = 'https://cloudfleet.io/blog'
 
 TIMEZONE = 'Europe/Paris'
 
@@ -19,9 +19,9 @@ DEFAULT_METADATA = {
 STATIC_PATHS = ['img']
 
 # Feed generation is usually not desired when developing
-FEED_ALL_ATOM = None
-CATEGORY_FEED_ATOM = None
-TRANSLATION_FEED_ATOM = None
+#FEED_ALL_ATOM = None
+#CATEGORY_FEED_ATOM = None
+#TRANSLATION_FEED_ATOM = None
 
 # Blogroll
 #LINKS =  (('Pelican', 'http://getpelican.com/'),
