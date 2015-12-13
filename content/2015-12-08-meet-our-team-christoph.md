@@ -4,7 +4,7 @@ Category: general
 Tags: team, christoph
 Slug: meet-our-team-christoph
 Author: Laura Gaetano
-Author_link: https://cloudfleet.io/#team-tabs
+Author_link: https://cloudfleet.io/#team-6
 Summary: Introducing the Admiral of the Clouds
 Status: published
 
