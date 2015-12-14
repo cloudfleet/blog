@@ -8,6 +8,8 @@ Summary: Introducing our Commodore x40
 
 ## Introducing our Commodore x40
 
+<img class="intro-image" src="{filename}/img/Mark.png" style="float: left; width: 25%; margin: 0.5em">
+
 We're back for our fourth team member introduction: Mark Evenson is
 yet another co-founder of CloudFleet.  Mark was born in Springfield –
 but with five digits on each hand. Mark considers himself a
