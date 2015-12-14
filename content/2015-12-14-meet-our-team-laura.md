@@ -5,12 +5,13 @@ Tags: team, laura
 Slug: meet-our-team-laura
 Author: Laura Gaetano
 Summary: Introducing the Community Commander
+Status: published
 
 ## Introducing the Community Commander
 
 <img class="intro-image" src="{filename}/img/Laura.png" style="float: left; width: 25%; margin: 0.5em">
 
-We proudly present our third team member, Laura Gaetano. As you might guess by her name, Laura is originally from Italy; after growing up in Southern France, she moved to Vienna in her teens with her family, where she stayed for her art studies. Passionate about learning, she enjoys NASA trivia and practicing Taekwondo.
+We proudly present our third team member, Laura Gaetano. As you might guess by her name, Laura is originally from Italy; after growing up in Southern France, she moved to Vienna in her teens with her family, where she stayed for her art studies. Passionate about learning, she enjoys NASA trivia, playing around with Ruby and practicing Taekwondo.
 
 ## From art to music to tech  
 “I touched a lot of different disciplines during my studies, from traditional sculpture and ceramics to performance and installation art, photography, typeface design, print and bookbinding”, she says about her studies of Transmedia Art. From the art scene, she moved onto the music business, where she tried out pretty much everything she could for a few years. She did band and concert photography, wrote album press releases for indie labels, wrote about albums and musicians for her music blog and other online publications, and even tried her hand at managing a musician, for whom she took care of everything, including design for a lyrics booklet and vinyl-only release.  
