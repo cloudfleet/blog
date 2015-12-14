@@ -1,5 +1,5 @@
 Title:  Meet our team - Mark
-Date: 2015-12-14 12:00
+Date: 2015-12-18 12:00
 Category: general
 Tags: team, mark
 Slug: meet-our-team-mark
@@ -8,7 +8,7 @@ Summary: Introducing our Commodore x40
 
 ## Introducing our Commodore x40
 
-We're back for our third team member introduction: Mark Evenson is yet another co-founder of CloudFleet.  Mark was born in Springfield – but with five digits on each hand. Mark considers himself a jack-of-all-trades, a seasoned generalist who knows how to specialize when needed — and is currently coordinating the engineering activities towards our first customer "ship", which includes designing and implementing a zero-knowledge backup system.
+We're back for our fourth team member introduction: Mark Evenson is yet another co-founder of CloudFleet.  Mark was born in Springfield – but with five digits on each hand. Mark considers himself a jack-of-all-trades, a seasoned generalist who knows how to specialize when needed — and is currently coordinating the engineering activities towards our first customer "ship", which includes designing and implementing a zero-knowledge backup system.
 
 Mark grew up in various parts of the world before settling in Ithaca, N.Y., for his studies. Torn between English and Physics, he eventually pursued the natural science route at Cornell University, reasoning, "I could always pick up a pen to write or a book to read later on, but wouldn't always have access to a particle accelerator to fool around with".
 
