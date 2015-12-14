@@ -85,7 +85,7 @@ following 5 tools allow you to escape the claws of cloud services and also attai
 To develop software in a team, a good version control system is important and a
 central repository with a web interface makes the collaboration much easier.
 
-The people from [GitLab](https://gitlab.org) created a tool that makes it easy
+The people from [GitLab](https://about.gitlab.com/) created a tool that makes it easy
 to host this at your own premises. If you ever used GitHub, you will soon find
 yourself at home with GitLab.
 
