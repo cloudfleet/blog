@@ -16,12 +16,13 @@ when needed — and is currently coordinating the engineering activities
 towards our first customer "ship", which includes designing and
 implementing a zero-knowledge backup system.
 
-## Writing and the pre-commercial internet Mark grew up in various
-parts of the world before settling in Ithaca, N.Y., for his
-studies. Torn between English and Physics, he eventually pursued the
-natural science route at Cornell University, reasoning, "I could
-always pick up a pen to write or a book to read later on, but wouldn't
-always have access to a particle accelerator to fool around with".
+## Writing and the pre-commercial internet
+Mark grew up in various parts of the world before settling in Ithaca,
+N.Y., for his studies. Torn between English and Physics, he eventually
+pursued the natural science route at Cornell University, reasoning, "I
+could always pick up a pen to write or a book to read later on, but
+wouldn't always have access to a particle accelerator to fool around
+with".
 
 ## Open Source and Mathematics  
 As a co-founder, he's fully dedicated to product ship date for
