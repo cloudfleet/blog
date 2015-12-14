@@ -56,7 +56,7 @@ persona how can we be said to even believe in a public commons?"
 
 Mark saw an opportunity to put his ideas about privacy into practice
 when he joined CloudFleet. "I am determined to not let the 'Snowden
-moment' pass into history without having said that I did not try to
-make a different world".
+moment' pass into history without having been said that I did not try
+to make a different world".
 
 
