@@ -24,13 +24,19 @@ lean startup method is to attain it.
 
 He challenges start-up founders to get out of the building to talk to people
 about their needs and to validate the assumption about customers, that lie
-at the core of the intended business model. [VERIFY QUOTE] Create theories,
-identify the theorie with the biggest uncertainty, test it. If it proves
+at the core of the intended business model. Create theories,
+identify the theory with the biggest uncertainty, test it. If it proves
 wrong, change your business model, and repeat the process.
 
 Who is reminded of a scientific experiment might be mistaken. Indeed it
 closely mirrors the platonic ideal of scientific progress as laid out by
-Karl Popper in
+Karl Popper in [The Logic of Scientific Discovery](https://en.wikipedia.org/wiki/The_Logic_of_Scientific_Discovery).
+
+According to Ries "Start-up success is not a consequence of good genes or being
+in the right place at the right time. Success can be engineered by following the
+right process, which means it can be learned, which means it can be taught."
+
+
 
 ## Karl Popper's Dream
 
@@ -50,7 +56,8 @@ and Kepler, who - some at considerable personal expense - started deducing
 the laws of the world from systematic and thorough observations and rattling
 the cage of Aristotelian science, that had constricted.
 
-One of the most fascinating works that show this method is Kepler's Planets [NAME?]
+One of the most fascinating works that show this method is Kepler's
+groundbreaking work [Astronomia Nova](https://en.wikipedia.org/wiki/Astronomia_nova)
 Almost every chapter starts with the proclamation how stupid he was upon
 writing the preceding chapter. Of course it had nothing to do with him being
 stupid, and all with the continuing refinement of his theories in his quest
@@ -65,7 +72,7 @@ connection between the past and the future. The fact that the bus
 came around the corner each day from Monday to Friday does not mean that it
 will be on the same schedule on Saturday or Sunday.
 
-Karl Popper had the solution. To predict  the future, you have to create a
+Karl Popper proposed a solution. To predict the future, you have to create a
 model that explains your past observations and makes predictions about the
 future. Then you can "get out of the building" and test your assumptions,
 just like you would do it for your start-up according to the lean start-up
@@ -74,8 +81,9 @@ method.
 ## Theory And Practice ...
 
 Reality however is quite a bit messier than the nice white paper philosophical
-concepts and theories are written upon. In his The Structure of Scientific
-Revolutions Kuhn analyzed how new ideas were introduced into and adopted by
+concepts and theories are written upon. In his book [The Structure of Scientific
+Revolutions](https://en.wikipedia.org/wiki/The_Structure_of_Scientific_Revolutions)
+Thomas S. Kuhn analyzed how new ideas were introduced into and adopted by
 the scientific community. In his research he found that few scientists
 were ready to change their opinions when a new paradigm came around. Not the
 least because most new paradigms initially have a worse reality theory fit
@@ -85,8 +93,8 @@ Only when the champions of the old paradigm would start to retire from the
 community and finally die out, the new paradigm - now also refined and
 polished - would prevail. Also Popper's followers like Imre Lakatos
 acknowledged the fact that scientific progress usually did not follow the
-platonic ideal of Popper's method and in "Against Method" Paul Feyerabend
-delivered a scathing critique of it.
+platonic ideal of Popper's method and in [Against Method](https://en.wikipedia.org/wiki/Against_Method)
+Paul Feyerabend delivered a scathing critique of it.
 
 Despite these criticism the basic idea, that a scientific theory should
 make testable predictions is still the universally accepted gold standard
