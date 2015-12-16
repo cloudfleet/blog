@@ -5,7 +5,6 @@ Tags: startups
 Slug: the-mission-driven-startup
 Author: Christoph Witzany
 Summary: The Mission-Driven Startup
-Status: published
 
 ## TL;DR
 
