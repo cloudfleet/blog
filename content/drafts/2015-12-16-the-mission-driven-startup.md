@@ -1,3 +1,10 @@
+Title: The Mission-Driven Startup
+Date: 2015-12-16 14:00
+Category: general
+Tags: startups
+Slug: the-mission-driven-startup
+Author: Christoph Witzany
+Summary: The Mission-Driven Startup
 
 ## TL;DR
 
