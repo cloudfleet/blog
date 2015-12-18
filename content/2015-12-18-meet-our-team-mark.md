@@ -5,6 +5,7 @@ Tags: team, mark
 Slug: meet-our-team-mark
 Author: Mark Evenson
 Summary: Introducing our Commodore x40
+Status: published
 
 ## Introducing our Commodore x40
 
