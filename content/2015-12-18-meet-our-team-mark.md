@@ -50,7 +50,7 @@ To Mark, privacy was important since the very beginning:
 the first days of dialing up local BBS numbers via a 300 bp/s modem
 from my Commodore 64 in the 1980s (the 'x40' in my CloudFleet title is
 a reference to these days, being a representation of '64' in
-hexadecimal)."  His interest in privacy has come down to the
+hexadecimal)". His interest in privacy has come down to the
 realization that we only get to build one Internet: one where everyone
 can be spied on, or one on which no one can be spied on. "Privacy is
 not just about hiding things; it is also about how we assert control
