@@ -1,4 +1,4 @@
-Title:  Meet our team - Laura
+Title:  Meet our team – Laura
 Date: 2015-12-14 12:00
 Category: general
 Tags: team, laura

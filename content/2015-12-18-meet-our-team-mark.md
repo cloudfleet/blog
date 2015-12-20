@@ -1,4 +1,4 @@
-Title:  Meet our team - Mark
+Title:  Meet our team – Mark
 Date: 2015-12-18 12:00
 Category: general
 Tags: team, mark
