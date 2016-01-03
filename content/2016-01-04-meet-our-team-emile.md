@@ -6,6 +6,7 @@ Slug: meet-our-team-emile
 Author: Laura Gaetano
 Author_link: https://cloudfleet.io/#team-3
 Summary: Introducing the Captain Chef De Partie
+Status: published
 
 ## Introducing the Captain Chef De Partie
 
