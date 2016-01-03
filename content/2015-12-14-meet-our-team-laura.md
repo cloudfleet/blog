@@ -4,6 +4,7 @@ Category: general
 Tags: team, laura
 Slug: meet-our-team-laura
 Author: Laura Gaetano
+Author_link: https://cloudfleet.io/#team-6
 Summary: Introducing the Community Commander
 Status: published
 
