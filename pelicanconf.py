@@ -16,7 +16,7 @@ DEFAULT_METADATA = {
     'status': 'draft',
 }
 
-STATIC_PATHS = ['img']
+STATIC_PATHS = ['img', 'video']
 
 # Feed generation is usually not desired when developing
 #FEED_ALL_ATOM = None
