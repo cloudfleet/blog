@@ -5,6 +5,7 @@ Tags: self-hosting, decentralization
 Slug: 4-ways-cloudfleet-makes-email-better
 Author: Christoph Witzany
 Summary: CloudFleet brings privacy and safety to your mails
+Status: published
 
 
 ## 1. Easily Encrypt Emails
