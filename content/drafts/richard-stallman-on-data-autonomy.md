@@ -12,9 +12,8 @@ CloudFleet. Listen to him explain why it is important to take control of your
 own data.
 
 <video controls style="width: 100%">
-  <source src="/video/richard-stallman.webm" type="video/webm">
-  <source src="/video/richard-stallman.ogv" type="video/ogv">
-  <source src="/video/richard-stallman.mp4" type="video/mp4">
+  <source src="{filename}/video/richard-stallman.webm" type="video/webm">
+  <source src="{filename}/video/richard-stallman.mp4" type="video/mp4">
   Your browser does not support the <code>video</code> element.
 </video>
 
