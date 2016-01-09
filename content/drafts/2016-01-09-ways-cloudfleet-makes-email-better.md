@@ -9,18 +9,17 @@ Summary: CloudFleet brings privacy and safety to your mails
 
 ## 1. Easily Encrypt Emails
 
-Sending and receiving encrypted email used to be a
-<span style="text-decoration: line-through">pain in the
-ass</span> hard. You had to install an add on for your mail client or
-use some external program to de- and encrypt email. Even if you mastered the
+Sending and receiving encrypted email used to be <span style="text-decoration: line-through">a pain in the
+ass</span> hard. You had to install an add-on for your mail client or
+use some external program to encrypt and decrypt emails. Even if you mastered the
 setup on one device, you could only read your encrypted emails there.
 
 On your CloudFleet Blimp, your encryption key is created when you log in the
 first time. Whenever you get an email from someone that shows this person can
 receive encrypted mails, [Mailpile](https://mailpile.is) automatically encrypts
-the mail for you. Also your public key fingerprint will be appended to your
-email so others know that they can send you encrypted mails. Even better, you
-can access you CloudFleet Blimp from every device you own, so checking emails on
+the mail for you. Also, your public key fingerprint will be appended to your
+email so others know that they can send you encrypted mails. Even better: you
+can access your CloudFleet Blimp from every device you own, so checking emails on
 your phone is easy.
 
 
@@ -33,7 +32,7 @@ services. Many times this results in a slew of unwanted spammy emails from them
 With CloudFleet you can easily avoid this by creating a dedicated email address
 for such occasions. Just use dontspamme@janedoe.name instead of your normal
 address like me@janedoe.name that you give your friends. You can even create
-separate email addresses for all these occasion to see who is selling you out to
+separate email addresses for all these occasions, to see who is selling you out to
 spammers. It is just a mouse click away.
 
 ## 3. Enjoy An Ad-Free Experience
@@ -51,12 +50,12 @@ the customer, not the product.
 
 To be able to sell targeted ads, free webmail providers use your emails to
 create accurate profiles of you that makes it easier to manipulate you into
-buying something. To achieve this algorithms read and analyze every single one
+buying something. To achieve this, algorithms read and analyze every single one
 of your mails including attachments like personal pictures or confidential
 contracts. That's their business.
 
 With CloudFleet nobody will read your emails. They are stored on your device,
-protected by your encryption key and even we cannot access them.
+protected by your encryption key; and even *we* cannot access them.
 
 
 ## Import All Your Existing Emails from Gmail
