@@ -13,9 +13,9 @@ We asked various people for their explanation why it is important to take
 control of your own data.
 
 Richard M. Stallman initiated the [Free Software Movement](http://www.fsf.org/)
-that brought us great things like GNU/Linux and was a great inspiration for
-CloudFleet. He gave us his statement at the Indie Tech Summit in July 2014 in
-Brighton.
+that brought us great things like the [GNU/Linux operating system](http://gnu.org/gnu/linux-and-gnu.html)
+and was a great inspiration for CloudFleet. He gave us his statement at the
+Indie Tech Summit in July 2014 in Brighton.
 
 Listen to him explain why it is important to take control of your
 own data.
@@ -38,6 +38,17 @@ The video <span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Richa
 </span>
 </div>
 
+Donate to the Free Software Foundation
+--------------------------------------
+
+**Help the Free Software Foundation continue thirty years as a guiding light for
+the free software movement.**
+
+Each donation you make toward their goal of raising $450,000 by January 31st
+helps them share the philosophy of free software with others — using our fire to
+light  candles of knowledge worldwide. Donations of $500 earn a
+[ThankGNU](http://www.gnu.org/thankgnus/thankgnus.en.html)! Read more about
+[their work](https://www.fsf.org/appeal?pk_campaign=cloudfleet&pk_kwd=appeal).
 
 Contribute to the efforts of the [Free Software Foundation](https://fsf.org) and
- go to their [donation page](https://donate.fsf.org/?pk_campaign=cloudfleet&pk_kwd=donate)!
+**[donate now](https://donate.fsf.org/?pk_campaign=cloudfleet&pk_kwd=donate)**!
