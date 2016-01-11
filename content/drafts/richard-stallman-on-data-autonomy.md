@@ -22,8 +22,8 @@ own data.
 
 <div style="text-align: center;">
 <video controls style="width: 90%">
-  <source src="{filename}/video/richard-stallman.webm" type="video/webm">
   <source src="{filename}/video/richard-stallman.mp4" type="video/mp4">
+  <source src="{filename}/video/richard-stallman.webm" type="video/webm">
   Your browser does not support the <code>video</code> element.
 </video>
 <span style="width: 90%; display: inline-block; text-align: left; font-size: 8pt">
