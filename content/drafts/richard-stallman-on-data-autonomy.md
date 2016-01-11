@@ -13,7 +13,7 @@ We asked various people for their explanation why it is important to take
 control of your own data.
 
 Richard M. Stallman initiated the [Free Software Movement](http://www.fsf.org/)
-that brought us great things like Linux and was a great inspiration for
+that brought us great things like GNU/Linux and was a great inspiration for
 CloudFleet. He gave us his statement at the Indie Tech Summit in July 2014 in
 Brighton.
 
