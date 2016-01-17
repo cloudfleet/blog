@@ -1,5 +1,5 @@
 Title: Richard Stallman on Data Autonomy
-Date: 2015-01-17 14:00
+Date: 2016-01-17 14:00
 Category: data-autonomy
 Tags: self-hosting, data-autonomy
 Slug: richard-stallman-on-data-autonomy
