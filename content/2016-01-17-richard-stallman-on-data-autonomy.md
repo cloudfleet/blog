@@ -1,10 +1,11 @@
 Title: Richard Stallman on Data Autonomy
-Date: 2015-10-25 19:00
+Date: 2015-01-17 14:00
 Category: data-autonomy
 Tags: self-hosting, data-autonomy
 Slug: richard-stallman-on-data-autonomy
 Author: Christoph Witzany
 Summary: Richard Stallman explains why you should host your data yourself
+Status: published
 
 Why You Should Take Control of Your Own Data - Part 1
 -----------------------------------------------------
