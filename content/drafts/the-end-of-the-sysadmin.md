@@ -14,11 +14,11 @@ We have already talked quite a bit about the importance of self-hosting
 your apps due to the limitations of
 [centralized cloud services][cloud-limitations]
 and mentioned a number of [great apps][tools] ready for self-hosting.
-In this blog post, we therefore assume that you do self-host your apps
+In this blog post, we therefore assume that you self-host your apps
 to protect your [data autonomy][data-autonomy].
-From here, we take the discussion to the next step and look at
-what happens after you set up an app on your hardware and how do you maintain
-it, a job done in typical organisations by professional system administrators,
+From here, we take the discussion to the next level and look at
+what happens after you set up an app on your hardware, and how you maintain
+it: a job done in typical organisations by professional system administrators,
 aka sysadmins.
 
 
@@ -26,7 +26,7 @@ aka sysadmins.
 
 In this decentralized dream, we quickly see that having a human sysadmin for
 every personal data center is a luxury. Either in terms of money needed to
-hire one or the personal time needed to stay informed and on top of
+hire one or of personal time needed to stay informed and on top of
 all the current security threats. Security vulnerabilities are found almost
 daily! To name a few recent popular ones: [Heartbleed](http://heartbleed.com/),
 [Shellshock](https://en.wikipedia.org/wiki/Shellshock_%28software_bug%29),
@@ -34,7 +34,7 @@ daily! To name a few recent popular ones: [Heartbleed](http://heartbleed.com/),
 (come on, there's gotta be a song hiding in there with
 all these nice exploit names 😀)
 
-It is true that knocking down doors the way the NSA can do with Facebook's or
+It's true that knocking down doors the way the NSA can do with Facebook's or
 Google's to get direct data access doesn't scale for a decentralized cloud.
 Finding and exploiting security vulnerabilities scales very well, though.
 With tools like [Metasploit][], you don't need much more than a "script
@@ -45,8 +45,8 @@ and [Wordpress sites][wordpress-botnet], to the more fashionable
 [botnets spanning the whole internet][large-botnet], the dangers are evident and
 *very exploitable*.
 
-What if the current package where people start out with a Linux image
-for a Raspberry Pi and are on their own from there on is too low-level?
+What if the current package — where people start out with a Linux image
+for a Raspberry Pi and are on their own from there — on is too low-level?
 
 
 ## Open Source Platform Commons
@@ -88,7 +88,7 @@ for messaging internally and as [Mark][] nicely put it:
 Signal is built as an open source project by people who transparently discuss
 its development in the open and are serious about security. This immediately
 gives it more credibility than closed source apps like WhatsApp that claim e2e
-encryption or even some semi-open apps like Telegram that came under criticism
+encryption, or even than some semi-open apps like Telegram, which came under criticism
 from [multiple][telegram-attack1] [sides][telegram-attack2] recently.
 
 We are striving to develop CloudFleet in an open and trustworthy manner as well,
@@ -101,7 +101,7 @@ projects like the Raspberry Pi, we are asking more and more people to keep track
 of everything that is going on in the
 security sphere, which is simply not possible without investing a lot of time.
 The end goal where every person has their own hardware device for storing their
-data will invariably mean *the end of the sysadmin* and nececitate
+data will invariably mean *the end of the sysadmin* and necessitate
 open source platform commons. Take a look at this CloudFleet
 [technical overview][] to see how we are building one in the open and,
 if you are interested, consider
