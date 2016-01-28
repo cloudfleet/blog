@@ -21,6 +21,10 @@ and how you maintain it:
 a job that is typically done in organisations
 by professional system administrators, aka sysadmins.
 
+![computer repair LED sign](img/Computer_Repair_LED.jpg)
+<span class="img-description">
+(photo by <a href="https://commons.wikimedia.org/wiki/File:Computer_Repair_LED.jpg">Seth Anderson</a>)
+</span>
 
 ## Human Sysadmins Do not Scale
 
