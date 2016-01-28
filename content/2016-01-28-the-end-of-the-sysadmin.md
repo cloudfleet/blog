@@ -1,12 +1,12 @@
 Title: The End of the Sysadmin
-Date: 2016-01-31 19:30
+Date: 2016-01-28 22:32
 Category: self-hosting
 Tags: self-hosting, decentralization
 Slug: the-end-of-the-sysadmin
 Author: Dražen Lučanin
 Author_link: https://cloudfleet.io/blog/meet-our-team-drazen.html
 Summary: The need for human sysadmins does not scale. We need open source platform commons.
-
+Status: published
 
 ## Beyond Self-Hosted Apps
 
