@@ -1,4 +1,4 @@
-Title:  Meet our team – Mark
+Title:  Meet our Team – Mark
 Date: 2015-12-18 12:00
 Category: general
 Tags: team, mark
@@ -28,7 +28,7 @@ could always pick up a pen to write or a book to read later on, but
 wouldn't always have access to a particle accelerator to fool around
 with".
 
-## Open Source and Mathematics  
+## Open Source and Mathematics
 As a co-founder, he's fully dedicated to product ship date for
 Cloudfleet. To pay the bills, he works as a contract software
 developer. One of his most recent projects was designing, developing
@@ -45,7 +45,7 @@ his hobbies and interests. Besides recreational mathematics, once in a
 while he tries to make time for surfing "on real waves on a real
 beach".
 
-## Privacy for the Commodore 64  
+## Privacy for the Commodore 64
 To Mark, privacy was important since the very beginning:
 "Instinctively, I have always been an online privacy advocate since
 the first days of dialing up local BBS numbers via a 300 bp/s modem
@@ -62,5 +62,3 @@ Mark saw an opportunity to put his ideas about privacy into practice
 when he joined CloudFleet. "I am determined to not let the 'Snowden
 moment' pass into history without having been said that I did not try
 to make a different world".
-
-

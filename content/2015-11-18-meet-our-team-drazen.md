@@ -1,4 +1,4 @@
-Title: Meet our team – Dražen
+Title: Meet our Team – Dražen
 Date: 2015-11-18 15:00
 Category: general
 Tags: team
@@ -25,7 +25,7 @@ that much time."
 He studied computer science in Zagreb before moving to Vienna to work as a research
 assistant and pursue his PhD at the Vienna University of Technology. He also
 completed several smaller research/development projects for the University of
-Vienna and Ruđer Bošković Institute.  
+Vienna and Ruđer Bošković Institute.
 
 
 ## The Responsibilities of a Captain

@@ -14,38 +14,38 @@ We have already talked quite a bit about the importance of self-hosting
 your apps due to the limitations of
 [centralized cloud services][cloud-limitations]
 and mentioned a number of [great apps][tools] ready for self-hosting.
-In this blog post, we therefore assume that you self-host your apps
+In this blog post, we assume that you already self-host your apps
 to protect your [data autonomy][data-autonomy].
-From here, we take the discussion to the next level and look at
-what happens after you set up an app on your hardware, and how you maintain
-it: a job done in typical organisations by professional system administrators,
-aka sysadmins.
+From here, we look at what happens after you set up an app on your hardware,
+and how you maintain it:
+a job that is typically done in organisations
+by professional system administrators, aka sysadmins.
 
 
-## Human Sysadmins Do Not Scale
+## Human Sysadmins Do not Scale
 
 In this decentralized dream, we quickly see that having a human sysadmin for
-every personal data center is a luxury. Either in terms of money needed to
+every personal data center is a luxury, either in terms of money needed to
 hire one or of personal time needed to stay informed and on top of
 all the current security threats. Security vulnerabilities are found almost
-daily! To name a few recent popular ones: [Heartbleed](http://heartbleed.com/),
+daily! A few recent popular ones include: [Heartbleed](http://heartbleed.com/),
 [Shellshock](https://en.wikipedia.org/wiki/Shellshock_%28software_bug%29),
 [Logjam](https://weakdh.org/) and [FREAK](https://freakattack.com/)...
-(come on, there's gotta be a song hiding in there with
-all these nice exploit names 😀)
+(there's gotta be a song hiding in there with
+all these nice exploit names 😀).
 
 It's true that knocking down doors the way the NSA can do with Facebook's or
-Google's to get direct data access doesn't scale for a decentralized cloud.
+Google's to get direct data access does not scale for a decentralized cloud.
 Finding and exploiting security vulnerabilities scales very well, though.
-With tools like [Metasploit][], you don't need much more than a "script
+With tools like [Metasploit][], you do not need much more than a "script
 kiddie" to build a [botnet][]. From the always popular
 [old routers][router-botnet]
 and [Wordpress sites][wordpress-botnet], to the more fashionable
 [IoT botnets built from refrigerators][iot-botnet] and
 [botnets spanning the whole internet][large-botnet], the dangers are evident and
-*very exploitable*.
+an insecure decentralized cloud is *very exploitable*.
 
-What if the current package — where people start out with a Linux image
+What if the current package — where people start out with a Linux SD card image
 for a Raspberry Pi and are on their own from there — on is too low-level?
 
 
@@ -53,11 +53,11 @@ for a Raspberry Pi and are on their own from there — on is too low-level?
 
 We believe that the right level of abstraction for decentralizing the web is not
 by providing only operating system images, but by providing a platform.
-A platform where after installing that first self-hosted app,
+In such a platform, after installing that first self-hosted app,
 the user can still easily get
-automatic updates for security patches. One that includes the collective wisdom
-of the crowd, made transparent through an open source project.
-In a way, the *open source platform commons*.
+automatic updates for security patches. It would include the collective wisdom
+of the crowd, made transparent through an open source project,
+the *open source platform commons*.
 
 **1. Auto-Updates**
 
@@ -83,13 +83,14 @@ The other key component is that we need to know that we can trust this group of
 people that is pushing updates to us. For example, we love using [Signal][]
 for messaging internally and as [Mark][] nicely put it:
 
-> I trust Signal only because of one man - [Moxie Marlinspike][moxie]
+> I trust Signal only because of one man - [Moxie Marlinspike][moxie].
 
 Signal is built as an open source project by people who transparently discuss
 its development in the open and are serious about security. This immediately
-gives it more credibility than closed source apps like WhatsApp that claim e2e
-encryption, or even than some semi-open apps like Telegram, which came under criticism
-from [multiple][telegram-attack1] [sides][telegram-attack2] recently.
+gives it more credibility than closed source apps
+like WhatsApp that claim to have e2e encryption,
+or even than some semi-open apps like Telegram, which were recently
+criticized by [multiple][telegram-attack1] [sides][telegram-attack2].
 
 We are striving to develop CloudFleet in an open and trustworthy manner as well,
 with all of the source code and protocols published as
@@ -100,12 +101,11 @@ As we are striving to decentralize the Internet through self-hosting using
 projects like the Raspberry Pi, we are asking more and more people to keep track
 of everything that is going on in the
 security sphere, which is simply not possible without investing a lot of time.
-The end goal where every person has their own hardware device for storing their
+The end goal where individuals have their own hardware device for storing their
 data will invariably mean *the end of the sysadmin* and necessitate
 open source platform commons. Take a look at this CloudFleet
-[technical overview][] to see how we are building one in the open and,
-if you are interested, consider
-backing our [crowdfunding campaign][crowdfunding].
+[technical overview][] to see how we are building one in the open and
+consider backing our [crowdfunding campaign][crowdfunding].
 
 [forum]: https://discourse.cloudfleet.io/
 [cloudfleet-github]: https://github.com/cloudfleet

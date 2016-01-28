@@ -56,7 +56,7 @@ According to the idealistic school, the insight about nature comes from
 the depth of our minds. Based on a few simple principles, you would be able
 to deduce truths about the world. This is how Aristotle built his physics.
 
-For almost two millenia it was not only the dominant method in science; 
+For almost two millenia it was not only the dominant method in science;
 the principles laid down in his writings also went largely unchallenged.
 
 It took strong-minded individuals like Galileo and Giordano Bruno, Copernicus
@@ -101,7 +101,7 @@ Only when the champions of the old paradigm would start to retire from the
 community and finally die out, the new paradigm - now also refined and
 polished - would prevail. Popper's followers, like Imre Lakatos, also
 acknowledged the fact that scientific progress usually did not follow the
-platonic ideal of Popper's method and in [Against Method](https://en.wikipedia.org/wiki/Against_Method), 
+platonic ideal of Popper's method and in [Against Method](https://en.wikipedia.org/wiki/Against_Method),
 Paul Feyerabend delivered a scathing critique of it.
 
 Despite this criticism, the basic idea that a scientific theory should
@@ -137,7 +137,7 @@ algorithms that control them.
 
 Of course, listening to users and making sure our user experience is great
 is of uttermost important to us. But the core axiom — that the world needs
-an easy to use, distributed system where the data is under control
+an easy-to-use, distributed system where the data is under control
 of the people.. That axiom is not negotiable.
 
 Join us on this journey and be part of the next revolution in computing!
