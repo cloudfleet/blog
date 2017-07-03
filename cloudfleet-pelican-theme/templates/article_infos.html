@@ -1,0 +1,8 @@
+<p class="post-info">
+  <abbr class="published" title="{{ article.date.isoformat() }}">
+    {{ article.locale_date }}
+  </abbr>
+  {% if article.author %}
+    by <a class="url fn" href="{{ article.author_link }}">{{ article.author }}</a>
+  {% endif %}
+</p><!-- /.post-info -->

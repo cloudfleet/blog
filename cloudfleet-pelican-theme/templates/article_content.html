@@ -1,0 +1,40 @@
+<div class="row box">
+  <div class="content col-xs-12 col-md-7">
+    <h1>
+      <a
+        href="{{ article.url }}"
+        rel="bookmark"
+        title="Permalink to {{ article.title|striptags }}"
+        >
+        {{ article.title }}
+      </a>
+    </h1>
+    {% include 'twitter.html' %}
+    <div class="entry-content">
+    {% include 'article_infos.html' %}<!-- /.post-info -->
+    {{ article.content }}
+    </div><!-- /.entry-content -->
+    {% if article.status == 'published' %}
+      {% include 'discourse.html'%}
+    {% endif %}
+  </div>
+  <div class="sidebar col-xs-12 col-md-3 col-md-offset-1">
+    <h2 class="separator top">
+      About
+    </h2>
+    <p>
+      In the CloudFleet Captain's Log you can read about our ongoing journey
+      towards providing easy-to-use solutions for self-hosting.
+    </p>
+    <h2 class="separator">
+      More Articles
+    </h2>
+    <dl>
+    {% for article in dates %}
+        <dt>{{ article.locale_date }}</dt>
+        <dd><a href='{{ article.url }}'>{{ article.title }}</a></dd>
+    {% endfor %}
+    </dl>
+  </div>
+
+</div>

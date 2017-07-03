@@ -1,0 +1,11 @@
+{% extends "base.html" %}
+{% block content_title %}{% endblock %}
+{% block content %}
+{% if articles %}
+{% for article in articles %}
+    {% if loop.index == 1 %}
+        {% include 'article_content.html' %}
+    {% endif %}
+{% endfor %}
+{% endif %}
+{% endblock content %}
