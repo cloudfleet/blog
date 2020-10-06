@@ -9,4 +9,5 @@ RUN pelican -dt cloudfleet-pelican-theme content
 
 FROM nginx:alpine
 
-COPY --from=builder /opt/cloudfleet-blog/output /usr/share/nginx/html
+RUN mkdir /usr/share/nginx/html/blog
+COPY --from=builder /opt/cloudfleet-blog/output /usr/share/nginx/html/blog
